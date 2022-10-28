@@ -6,7 +6,7 @@ from config import settings
 # connect to server on the cloud
 #client = pymongo.MongoClient("mongodb+srv://admin:admin@cluster0.gmxxrig.mongodb.net/?retryWrites=true&w=majority")
 
-def _connect_mongo(username, password):
+def _connect_mongo(username, password, host, port):
     """ A util for making a connection to mongo """
     if username and password:
         mongo_uri = f"mongodb+srv://{username}:{password}@cluster0.gmxxrig.mongodb.net/?retryWrites=true&w=majority"
@@ -21,7 +21,7 @@ def _connect_mongo(username, password):
 # exit()
 
 #Go into database
-db = _connect_mongo(username=settings.DB_USERNAME, password=settings.DB_PASSWORD)['industry']
+db = _connect_mongo(username=settings.DB_USERNAME, password=settings.DB_PASSWORD,host='localhost',port=27017)['industry']
 
 #Go into one database's collection (table)
 collection = db['production']

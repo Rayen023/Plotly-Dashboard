@@ -4,7 +4,7 @@ import pandas as pd
 import plotly.express as px
 import pymongo
 from bson.objectid import ObjectId
-from app import collection, df
+from Mongo_connect import collection, df
 
 external_stylesheets = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 app = dash.Dash(__name__, external_stylesheets=external_stylesheets,
