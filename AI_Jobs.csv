@@ -1,0 +1,151 @@
+Id,Title,Senior,Company,Location,Salary,Currency
+1,AI Developer / Data Scientist,FALSE,Algomine,Remote,13 440  - 25 200  PLN,PLN
+2,Data Scientist,FALSE,Addepto,Remote,18 480  - 28 560  PLN,PLN
+3,Machine Learning Engineer -Data Scientis,FALSE,OpenX,Remote,16 000  - 24 000  PLN,PLN
+4,Senior Data Scientist,TRUE,hubQuest,Remote,25 000  - 34 000  PLN,PLN
+5,Senior AI Engineer,TRUE,Link Group,Remote,27 000  - 30 000  PLN,PLN
+6,Senior AI Engineer,TRUE,Link Group,Remote,28 000  - 33 000  PLN,PLN
+7,Junior AI Engineer,FALSE,Lingaro,Remote,6 720  - 13 440  PLN,PLN
+8,Senior Machine Learning Engineer,TRUE,Grape Up,Remote,18 838  - 33 519  PLN,PLN
+9,Technical Writer with Python,FALSE,DevsData LLC,Remote,15 000  - 25 000  PLN,PLN
+10,Remote Python Deep Learning Engineer,FALSE,MX Labs,Remote,16 000  - 22 000  PLN,PLN
+11,Machine Learning Engineer,FALSE,Noble Systems Corporation,"Kraków, POL",10 700  - 17 600  PLN,PLN
+12,Senior Machine Learning Engineer,TRUE,S&amp;P Global,"Gdańsk, POL",16 000  - 21 000  PLN,PLN
+13,"Data Analyst, AI Services",FALSE,BRAINLY,Remote,9 000  - 15 000  PLN,PLN
+14,STAŻ W DZIALE ENGINE,FALSE,BILLON (Program Kariera),"Warszawa, POL",5 000  PLN,PLN
+15,Python Machine Learning Engineer,FALSE,Provectus,Remote,12 829  - 25 658  PLN,PLN
+16,Remote Data Scientist,FALSE,Varwise,Remote,26 000  - 30 000  PLN,PLN
+17,ML/AI/Computer Vision Engineer,FALSE,Pragmile,Remote,14 000  - 20 000  PLN,PLN
+18,AI Researcher/Data Scientist,FALSE,Link Group,Remote,23 500  - 32 500  PLN,PLN
+19,Scala Developer,FALSE,Link Group Sp. z o. o.,Remote,16 800  - 21 840  PLN,PLN
+20,Machine Learning Engineer,FALSE,Michael Page,Remote,20 000  - 40 000  PLN,PLN
+21,Azure Data Engineer,FALSE,AVENGA,Remote,25 200  - 26 880  PLN,PLN
+22,Senior Machine Learning Engineer,TRUE,Grape Up,Remote,19 100  - 34 000  PLN,PLN
+23,Principal Deep Learning Engineer,FALSE,Focal Systems,Remote,89 091  - 174 619  PLN,PLN
+24,Senior Deep Learning Engineer,TRUE,Focal Systems,Remote,71 273  - 114 037  PLN,PLN
+25,Deep Learning Engineer,FALSE,Focal Systems,Remote,42 763  - 71 273  PLN,PLN
+26,Data Engineer,FALSE,Avanade Poland,Remote,15 120  - 25 200  PLN,PLN
+27,Machine Learning Researcher,FALSE,RTB House,Remote,28 500  - 47 000  PLN,PLN
+28,Machine Learning Engineer,FALSE,RTB House,Remote,28 500  - 47 000  PLN,PLN
+29,Remote Machine Learning Engineer,FALSE,SoftwareMill,Remote,18 375  - 30 450  PLN,PLN
+30,(Senior) ML Engineer/Python Developer,TRUE,Objectivity,Remote,21 000  - 25 200  PLN,PLN
+31,MLOps Engineer,FALSE,MX Labs,Remote,16 000  - 22 000  PLN,PLN
+32,Python Software Engineer|Program Kariera,FALSE,Deepsense.ai (Program Kariera),"Warszawa, POL
+ + 1",4 500  PLN,PLN
+33,Junior MLOps Developer,FALSE,QED Software,"Warszawa, POL
+ + 1",7 000  - 12 000  PLN,PLN
+34,Remote AI Developer,FALSE,Spectre Solutions sp. z o.o.,Remote,12 000  - 22 000  PLN,PLN
+35,Junior Remote Phyton Machine Engineer,FALSE,VlogIT,Remote,8 000  - 12 000  PLN,PLN
+36,Machine Learning Engineer (MLOps),FALSE,Robotec.ai,"Warszawa, POL
+ + 1",15 000  - 23 000  PLN,PLN
+37,Product Technical Owner,FALSE,GGPredict,"Warszawa, POL",16 000  - 21 000  PLN,PLN
+38,Remote Machine Learning Resarcher,FALSE,Mobica Limited,Remote,16 800  - 28 560  PLN,PLN
+39,Scala Data Engineer,FALSE,Devire,Remote,25 000  - 28 000  PLN,PLN
+40,Data Scientist,FALSE,Adform Sp. z o.o.,"Warsaw, POL",15 000  - 19 000  PLN,PLN
+41,Senior Data Scientist,TRUE,Adform Sp. z o.o.,"Warsaw, POL",21 000  - 25 000  PLN,PLN
+42,AI/ML Expert,TRUE,NOMATEN within Narodowe Centrum Badań Jądrowych,"Otwock, POL",10 000  - 17 500  PLN,PLN
+43,Senior Data Scientist (A&amp;PC),TRUE,hubQuest,Remote,29 000  - 37 000  PLN,PLN
+44,Remote Python Machine Learning Engineer,FALSE,DTiQ,Remote,10 000  - 14 000  PLN,PLN
+45,Remote Data Scientist,FALSE,AVENGA,Remote,15 120  - 26 880  PLN,PLN
+46,Remote Data Engineer,FALSE,Ringier Axel Springer Tech,Remote,10 100  - 16 900  PLN,PLN
+47,Trainee AI Engineer,FALSE,Lingaro,Remote,4 200  - 6 720  PLN,PLN
+48,Natural Language Processing  Engineer,FALSE,Cognitiva,Remote,16 000  - 20 000  PLN,PLN
+49,Junior Cloud Engineer,FALSE,Reply Polska,Remote,5 000  - 7 000  PLN,PLN
+50,Junior Data Scientist,FALSE,S&amp;P Global,Remote,10 000  - 13 000  PLN,PLN
+51,Junior Real-Time Software Engineer,FALSE,Reply Polska,"Katowice, POL",5 000  - 9 000  PLN,PLN
+52,Computer Vision Data Scientist,FALSE,"Secret Sauce Partners, Inc.",Remote,11 608  - 20 894  PLN,PLN
+1,Senior Data Scientist,TRUE,Adform Sp. z o.o.,"Warsaw, POL",21 000  - 25 000  PLN,PLN
+2,Data Scientist,FALSE,Focal Systems,Remote,30 821  - 52 158  PLN,PLN
+3,Senior Data Scientist (Computer Vision),TRUE,Lingaro,Remote,20 160  - 30 240  PLN,PLN
+4,Machine Learning Engineer -Data Scientis,FALSE,OpenX,Remote,16 000  - 24 000  PLN,PLN
+5,Machine Learning Engineer,FALSE,RTB House,Remote,28 500  - 47 000  PLN,PLN
+6,Machine Learning Researcher,FALSE,RTB House,Remote,28 500  - 47 000  PLN,PLN
+7,Cloud Solutions Architect,FALSE,Grape Up,"Kraków, POL
+ + 2",22 100  - 35 700  PLN,PLN
+8,Data Scientist (Remote),FALSE,deepsense.ai Sp. z o.o.,Remote,16 000  - 24 000  PLN,PLN
+9,Data Engineer (Krakow),FALSE,Unit8 SA,"Kraków, POL
+ + 3",16 000  - 26 000  PLN,PLN
+10,Deep Learning Engineer,FALSE,Focal Systems,Remote,47 417  - 78 712  PLN,PLN
+11,Data Reliability Engineer,FALSE,Unit8 SA,"Wrocław, POL
+ + 1",16 000  - 26 000  PLN,PLN
+12,Senior Data Scientist (A&amp;PC),TRUE,hubQuest,Remote,29 000  - 37 000  PLN,PLN
+13,Data Engineer,FALSE,Ringier Axel Springer Tech,"Warszawa, POL
+ + 2",10 100  - 16 900  PLN,PLN
+14,Remote Senior Java Developer/Architect,TRUE,Jit Team,Remote,30 000  - 40 000  PLN,PLN
+15,Remote MLOps Engineer,FALSE,Link Group,Remote,23 520  - 28 560  PLN,PLN
+16,NLP ML Engineer – Data Scientist,FALSE,Silver Bullet Soluions Sp. z o.o.,"Warsaw, POL
+ + 1",12 500  - 14 500  PLN,PLN
+17,AI Developer / Data Scientist,FALSE,Algomine,Remote,13 440  - 25 200  PLN,PLN
+18,Senior Machine Learning Engineer,TRUE,Grape Up,Remote,19 100  - 34 000  PLN,PLN
+19,Senior NLP Data Scientist,TRUE,Applica Sp. z o.o.,Remote,18 000  - 23 000  PLN,PLN
+20,Data Analyst,FALSE,Schneider Electric,"Warszawa, POL",10 500  - 16 000  PLN,PLN
+21,Python Machine Learning Engineer,FALSE,Pointpack,Remote,26 000  - 30 000  PLN,PLN
+22,Data Science Leader,TRUE,Global App Testing,Remote,25 000  - 35 000  PLN,PLN
+23,Remote Mid AI developer,FALSE,Spectre Solutions sp. z o.o.,Remote,12 000  - 22 000  PLN,PLN
+24,Remote Python Machine Learning Engineer,FALSE,DTiQ,Remote,10 000  - 14 000  PLN,PLN
+25,MLOps Engineer,FALSE,MX Labs,Remote,16 000  - 22 000  PLN,PLN
+26,AI Engineer,FALSE,Lingaro,Remote,23 520  - 30 240  PLN,PLN
+27,Data Scientist,FALSE,AVENGA,Remote,15 120  - 26 880  PLN,PLN
+28,Remote Data Scientist,FALSE,Varwise,Remote,26 000  - 30 000  PLN,PLN
+29,Robotics Engineer,FALSE,Unitem,"Wrocław, POL",12 000  - 18 000  PLN,PLN
+30,Remote Senior AI NLP IT Proffesional,TRUE,Roche,Remote,13 000  - 17 500  PLN,PLN
+31,MLOps Engineer,FALSE,Addepto,Remote,20 160  - 30 240  PLN,PLN
+32,MLOps Engineer,FALSE,hubQuest,Remote,23 000  - 30 000  PLN,PLN
+33,Senior Cloud Automation Engineer,TRUE,ERGO Technology &amp; Services S.A.,Remote,17 000  - 19 000  PLN,PLN
+34,Data Scientist,FALSE,Hays Poland,Remote,16 800  - 20 160  PLN,PLN
+35,Senior Data Scientist,TRUE,hubQuest,Remote,25 000  - 34 000  PLN,PLN
+36,Data Scientist,FALSE,Addepto,Remote,18 480  - 28 560  PLN,PLN
+37,Senior Machine Learning Engineer,TRUE,Devire,Remote,26 000  - 32 000  PLN,PLN
+38,Senior AI Engineer,TRUE,Link Group,Remote,27 000  - 30 000  PLN,PLN
+39,Senior AI Engineer,TRUE,Link Group,Remote,28 000  - 33 000  PLN,PLN
+40,Junior Data Scientist,FALSE,S&amp;P Global,Remote,10 000  - 13 000  PLN,PLN
+41,Advanced Analytics Consultant,FALSE,UNICEF,"Budapest, HUN",18 923  - 23 654  PLN,PLN
+1,Remote Data Scientist (Python),FALSE,Lingaro,Remote,15 120  - 21 840  PLN,PLN
+2,Senior Research Engineer (R&amp;D),TRUE,SoftServe,Remote,20 000  - 25 000  PLN,PLN
+3,Remote Data Scientist (NLP),FALSE,Lingaro,Remote,20 160  - 30 240  PLN,PLN
+4,Sr. Software Engineer (Machine Learning),FALSE,Affirm,Remote,22 042  - 24 247  PLN,PLN
+5,Python Developer / ML Engineer,FALSE,hubQuest,Remote,20 000  - 25 000  PLN,PLN
+6,Junior Data Scientist,FALSE,Webinterpret,Remote,8 000  - 12 000  PLN,PLN
+7,AI Engineer,FALSE,Tascent Inc.,"Wrocław, POL",13 637  - 27 275  PLN,PLN
+8,Machine Learning Engineer,FALSE,10 Senses,"Warszawa, POL
+ + 1",16 800  - 30 240  PLN,PLN
+9,Senior Data Scientist,TRUE,Lerta,Remote,18 500  - 26 500  PLN,PLN
+10,Senior Data Scientist (Supply Chain),TRUE,hubQuest,Remote,29 000  - 37 000  PLN,PLN
+11,Python Machine Learning Engineer,FALSE,Numlabs,Remote,8 000  - 12 000  PLN,PLN
+12,Data Reliability Engineer,FALSE,Unit8 SA,"Kraków, POL
+ + 1",16 000  - 26 000  PLN,PLN
+13,Senior Deep Learning Engineer,TRUE,Focal Systems,Remote,75 764  - 121 223  PLN,PLN
+14,Principal Deep Learning Engineer,FALSE,Focal Systems,Remote,94 706  - 185 624  PLN,PLN
+15,Remote Machine Learning Developer,FALSE,Iterators,Remote,13 440  - 18 500  PLN,PLN
+16,Machine Learning Developer,FALSE,Mobica Limited,Remote,19 950  - 25 830  PLN,PLN
+17,Machine Learning Developer,FALSE,Link Group,Remote,20 160  - 30 240  PLN,PLN
+18,Scala Developer,FALSE,Link Group,Remote,13 440  - 23 520  PLN,PLN
+19,Software Engineer in Machine Learning,FALSE,deepsense.ai Sp. z o.o.,Remote,16 000  - 24 000  PLN,PLN
+20,Data Scientist,FALSE,deepsense.ai Sp. z o.o.,Remote,16 000  - 24 000  PLN,PLN
+21,Senior Azure Data Engineer,TRUE,Larsen &amp; Toubro Infotech (LTI),"Warszawa, POL",26 000  - 32 000  PLN,PLN
+22,Cloud Automation Engineer,FALSE,ERGO Technology &amp; Services S.A.,Remote,14 000  - 26 000  PLN,PLN
+23,Project Manager,FALSE,LoopMe,"Kraków, POL",15 000  - 20 000  PLN,PLN
+24,Senior Data Scientist,TRUE,hubQuest,Remote,29 000  - 37 000  PLN,PLN
+25,Data Analyst,FALSE,LoopMe,"Kraków, POL",15 000  PLN,PLN
+26,Machine Learning Engineer/Data Scientist,FALSE,LoopMe,Remote,16 000  - 18 000  PLN,PLN
+27,MLOps Engineer,FALSE,hubQuest,Remote,23 000  - 30 000  PLN,PLN
+28,Remote MLOps Engineer,FALSE,Link Group,Remote,23 520  - 28 560  PLN,PLN
+29,Junior AI Developer,FALSE,Sport Vision Technology sp. z o.o. sp. k.,Remote,5 000  - 9 000  PLN,PLN
+30,Azure Data Architect,FALSE,Larsen &amp; Toubro Infotech (LTI),"Warszawa, POL",28 000  - 38 000  PLN,PLN
+31,Machine Learning Researcher,FALSE,Link Group,Remote,20 160  - 30 240  PLN,PLN
+32,Machine Learning Engineer,FALSE,hubQuest,Remote,17 000  - 23 500  PLN,PLN
+33,Big Data Engineer (AWS or Azure),FALSE,InData Labs,Remote,28 099  - 37 465  PLN,PLN
+34,Senior Data Scientist,TRUE,hubQuest,Remote,25 000  - 34 000  PLN,PLN
+35,Data Scientist,FALSE,AVENGA,Remote,23 520  - 28 560  PLN,PLN
+36,Data Engineer,FALSE,Avanade Poland,Remote,15 120  - 26 880  PLN,PLN
+37,Senior Data Scientist,TRUE,Objectivity,Remote,23 352  - 28 560  PLN,PLN
+38,Data Architect,FALSE,Objectivity,Remote,24 000  - 30 400  PLN,PLN
+39,Cloud Solutions Architect,FALSE,Grape Up,"Kraków, POL
+ + 2",22 100  - 35 700  PLN,PLN
+40,AI LAB,FALSE,Deloitte Advisory,Remote,4 200  PLN,PLN
+41,Machine Learning Engineer,FALSE,RTB House,Remote,28 500  - 47 000  PLN,PLN
+42,Machine Learning Researcher,FALSE,RTB House,Remote,28 500  - 47 000  PLN,PLN
+43,Konsultant Modelowania Ryzyka,FALSE,Polskie Technologie,"Warszawa, POL",8 700  - 13 100  PLN,PLN
+44,Data Engineer,FALSE,Unit8 SA,"Kraków, POL
+ + 1",16 000  - 26 000  PLN,PLN
+45,Computer Vision Engineer,FALSE,Femtonics Kft,"Budapest, HUN",9 530  - 17 869  PLN,PLN
