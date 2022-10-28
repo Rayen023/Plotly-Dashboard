@@ -1,17 +1,18 @@
 import pymongo
 import pandas as pd
+import os
+from config import settings
 
 # connect to server on the cloud
 #client = pymongo.MongoClient("mongodb+srv://admin:admin@cluster0.gmxxrig.mongodb.net/?retryWrites=true&w=majority")
 
 def _connect_mongo(username, password):
     """ A util for making a connection to mongo """
-
     if username and password:
         mongo_uri = f"mongodb+srv://{username}:{password}@cluster0.gmxxrig.mongodb.net/?retryWrites=true&w=majority"
         client = pymongo.MongoClient(mongo_uri)
     else:
-        conn = MongoClient(host, port)
+        conn = pymongo.MongoClient(host, port)
     return client
 
 # test the connection
@@ -20,7 +21,7 @@ def _connect_mongo(username, password):
 # exit()
 
 #Go into database
-db = _connect_mongo('admin','admin')['industry']
+db = _connect_mongo(username=settings.DB_USERNAME, password=settings.DB_PASSWORD)['industry']
 
 #Go into one database's collection (table)
 collection = db['production']
